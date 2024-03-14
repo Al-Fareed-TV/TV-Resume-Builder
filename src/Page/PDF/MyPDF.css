@@ -1,0 +1,43 @@
+.logo {
+    height: 40px;
+    width: 60px;
+}
+
+.page {
+    padding: 30px;
+    font-size: 15px;
+}
+
+.disclaimer {
+    font-size: smaller;
+    margin-top: auto;
+    margin-bottom: 0px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    justify-content: space-between;
+}
+
+text {
+    font-size: 15px;
+}
+
+.sub-heading {
+    color: rgb(106, 180, 207);
+    font-weight: 700;
+    margin: 1rem 0;
+}
+
+.profile-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-name {
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(78, 175, 210);
+}
