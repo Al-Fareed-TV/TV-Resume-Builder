@@ -6,6 +6,7 @@ import {
   addUserProfileFormData,
   addCustomProfileData,
 } from "../app/profileSlice";
+import './UploadJSONFile.css'
 const UploadJSONFile = () => {
   const dispatch = useDispatch();
   const [file, setFile] = useState(null);
